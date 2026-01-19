@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/poojanr578" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="poojanr578" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/pooja n r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pooja-n-r-402063267" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pooja n r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[pooja-n-r-402063267](https://www.linkedin.com/in/pooja-n-r-402063267/)" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/poojanrpoojanr51" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="poojanrpoojanr51" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/poojanrpoojanr513" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="poojanrpoojanr513" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/poojanrpoovtp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="poojanrpoovtp" height="30" width="40" /></a>
