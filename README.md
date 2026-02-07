@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=poojapoojanr&label=Profile%20views&color=0e75b6&style=flat" alt="poojapoojanr" /> </p>
 
-- 🔭 I’m currently working on [KrishiNexa](https://github.com/poojapoojanr/KrishiNexa.git)
+- 🔭 I’m currently working on [KrishiNexa](https://github.com/poojapoojanr/krishinexa-an-intelliegent-system)
 
 - 🌱 I’m currently learning **Agentic AI, Agentic RAG**
 
