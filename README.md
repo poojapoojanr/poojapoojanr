@@ -30,10 +30,10 @@
 
 
 ## 📊 GitHub Stats
-![Pooja's GitHub stats](https://github-readme-stats.vercel.app/api?username=poojapoojanr&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=poojapoojanr)
 
 ## 💻 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=poojapoojanr&layout=compact&langs_count=6&theme=tokyonight)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=poojapoojanr&layout=compact)
 
 ## 🔥 Contribution Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=poojapoojanr&theme=tokyonight)
